@@ -1,0 +1,10 @@
+server:
+    port: 8001
+    
+spring:
+    
+    main:
+        banner-mode: "off"
+
+    profiles:
+        active: prod
